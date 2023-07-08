@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.swing.laf.ui.AddCustomLookAndFeelDialog">
+		<item key="x" value="583"/>
+		<item key="y" value="250"/>
+		<item key="width" value="753"/>
+		<item key="height" value="520"/>
+	</section>
+</section>
